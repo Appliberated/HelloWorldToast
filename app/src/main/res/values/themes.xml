@@ -1,5 +1,4 @@
-<resources>
-    <!-- Base application theme. -->
+<resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Theme.HelloWorldToast" parent="android:Theme.Translucent.NoTitleBar">
     </style>
 </resources>
