@@ -2,9 +2,10 @@
 
 ![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-1-green)
 ![Maximum API Level](https://img.shields.io/badge/Target%20API%20Level-31-orange)
-[![Releases](https://img.shields.io/github/release/TechAurelian/HelloWorldToast.svg)](https://github.com/TechAurelian/HelloWorldToast/releases/latest)
-![GitHub repo size](https://img.shields.io/github/repo-size/TechAurelian/HelloWorldToast)
+[![Releases](https://img.shields.io/github/release/Appliberated/HelloWorldToast.svg)](https://github.com/Appliberated/HelloWorldToast/releases/latest)
+![GitHub repo size](https://img.shields.io/github/repo-size/Appliberated/HelloWorldToast)
 ![License](https://img.shields.io/npm/l/express.svg)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Appliberated/HelloWorldToast/total)
 
 **It may very well be the simplest Android app. Works even on Android 1.0!**
 
@@ -25,9 +26,7 @@ Hello World Toast is free and open source, doesn't show ads, doesn't require Int
 
 ## Download
 
-<a href='https://play.google.com/store/apps/details?id=com.thehellomaker.helloworldtoast'><img alt='Get it on Google Play' src='readme-assets/google-play-store-badge-en.svg' width="200"/></a>
-
-or **[Download from GitHub Releases](https://github.com/TechAurelian/HelloWorldToast/releases/latest)**
+or **[Download from GitHub Releases](https://github.com/Appliberated/HelloWorldToast/releases/latest)**
 
 ## User Reviews (🤣)
 
@@ -46,8 +45,8 @@ To build and run the app, clone this project, open it as an existing project in 
 Thank you for contributing! Hello World Toast is designed to be as simple as possible, but you can still help with:
 
 * testing and reporting bugs
-* creating a nice Android app icon to replace the [current one](https://github.com/TechAurelian/HelloWorldToast/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+* creating a nice Android app icon to replace the [current one](https://github.com/Appliberated/HelloWorldToast/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## License
 
-Hello World Toast is released under the [MIT License](https://github.com/TechAurelian/HelloWorldToast/blob/main/LICENSE).
+Hello World Toast is released under the [MIT License](https://github.com/Appliberated/HelloWorldToast/blob/main/LICENSE).

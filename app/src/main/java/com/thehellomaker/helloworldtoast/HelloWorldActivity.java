@@ -1,7 +1,7 @@
 /*
  * Hello World Toast
- * Copyright (c) 2015-2022 TechAurelian. All rights reserved.
- * https://techaurelian.com
+ * Copyright (c) 2015-2025 Appliberated. All rights reserved.
+ * https://www.appliberated.com/
  *
  * Licensed under the MIT License. See LICENSE in the project root for license information.
  */
